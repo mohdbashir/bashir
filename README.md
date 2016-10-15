@@ -1,4 +1,4 @@
-# tejasext
+# bashir
 Sample extenstion for Yii2
 Hello World
 ===========
@@ -13,17 +13,17 @@ Either run
 
 For linux
 ```
-sudo composer require --prefer-dist tejasext/hello-world "*"
+sudo composer require --prefer-dist bashir/hello-world "*"
 OR
-sudo composer.phar require --prefer-dist tejasext/hello-world "*"
+sudo composer.phar require --prefer-dist bashir/hello-world "*"
 ```
 For Windows
 ```
-php composer.phar require --prefer-dist tejasext/hello-world "*"
+php composer.phar require --prefer-dist bashir/hello-world "*"
 ```
 or add
 ```
-"tejasext/hello-world": "*"
+"bashir/hello-world": "*"
 Run Command
 sudo composer.phar update
 ```
