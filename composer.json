@@ -1,0 +1,20 @@
+{
+    "name": "tejasext/hello-world",
+	"type": "yii2-extension",
+	"description": "A PHP class to generate Hello world",
+	"keywords": ["yii2","extension","helloworld","tejas"],
+	 "license": "GPL-2.0",
+    "authors": [
+        {
+            "name": "Mithilesh Kumar",
+            "email": "mkphp2@gmail.com",
+            "homepage": "http://18thtechnology.com/"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-0": {
+            "HelloWorld": "src/"
+        }
+    }
+}
